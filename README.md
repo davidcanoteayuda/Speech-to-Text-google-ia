@@ -59,3 +59,6 @@ python main.py
 
 Licencia
 Este proyecto está liberado bajo la licencia Creative Commons Zero v1.0 Universal (CC0), lo que significa que puedes usar, copiar, modificar y distribuir este trabajo sin restricciones.
+
+Soporte y Contribuciones
+Si tienes preguntas o deseas contribuir al proyecto, no dudes en abrir un issue o un pull request en este repositorio. También puedes ver el video tutorial en mi canal de YouTube para obtener más detalles sobre la configuración y el uso del proyecto.
